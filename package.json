@@ -11,14 +11,13 @@
     "date-fns": "^2.30.0",
     "gray-matter": "^4.0.3",
     "next": "latest",
-    "playwright": "^1.36.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "remark": "^14.0.3",
     "remark-html": "^15.0.2"
   },
   "devDependencies": {
-    "@playwright/test": "^1.36.0",
+    "@playwright/test": "^1.36.1",
     "autoprefixer": "^10.4.14",
     "postcss": "^8.4.25",
     "sass": "^1.63.6",
