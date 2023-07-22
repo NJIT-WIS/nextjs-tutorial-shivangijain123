@@ -11,9 +11,9 @@
     "date-fns": "^2.30.0",
     "gray-matter": "^4.0.3",
     "next": "latest",
-    "playwright": "^1.35.1",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
+    "playwright": "^1.36.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "remark": "^14.0.3",
     "remark-html": "^15.0.2"
   },
@@ -23,5 +23,17 @@
     "postcss": "^8.4.25",
     "sass": "^1.63.6",
     "tailwindcss": "^3.3.2"
-  }
+  },
+  "name": "nextjs-tutorial-shivangijain123",
+  "description": "# Assignment Brief: Understanding React & Introduction to NextJS",
+  "version": "1.0.0",
+  "main": "playwright.config.js",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib",
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
